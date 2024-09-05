@@ -158,7 +158,7 @@ Booking Date: 25/09/2023
 
 <h2>Contributions</h2>
 <p>
-  This program was created as part of Assignment 4 by the following contributors:
+  The following contributors created this program:
 </p>
 <ul>
   <li>Nader Tomas</li>
