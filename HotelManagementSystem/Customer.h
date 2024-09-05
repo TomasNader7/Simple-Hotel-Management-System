@@ -1,6 +1,4 @@
-/*File: Prog4-Group6                                                                  Nader Tomas w10172066
-* Assignment 4                                                                        Thales Teixeira Rodrigues w10173761
-* 
+/*
 * Description: Declaration of the Customer class, representing a customer who may book a room in the hotel. 
 * 
 * Public members include the default constructor and parameterized constructor to initialize customer attributes.

@@ -1,6 +1,4 @@
-/*File: Prog4-Group6                                                                  Nader Tomas w10172066
-* Assignment 4                                                                        Thales Teixeira Rodrigues w10173761
-* 
+/*
 * Description: Initializes the hotel with a specified number of rooms, including single, double, and suite rooms.
 * Implements methods to show available rooms, book/unbook rooms, and display booked rooms. Uses the Room and Booking classes for these operations.
 */

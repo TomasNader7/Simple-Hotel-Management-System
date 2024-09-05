@@ -1,6 +1,4 @@
-/*File: Prog4-Group6                                                                 Nader Tomas w10172066
-* Assignment 4                                                                       Thales Teixeira Rodrigues w10173761
-* 
+/* 
 * Description: Room.cpp contains the implementation of the methods declared in Room.h. 
 * It defines how each method of the Room class behaves, including the constructor, setter and getter methods, and specific behaviors like booking and unbooking.
 */

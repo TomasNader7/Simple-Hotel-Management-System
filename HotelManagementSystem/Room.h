@@ -1,6 +1,4 @@
-/*File: Prog4-Group6                                                                  Nader Tomas w10172066
-* Assignment 4                                                                        Thales Teixeira Rodrigues w10173761
-* 
+/*
 * Description: The Room.h file contains the declaration of the Room class, which represents individual rooms within the hotel management system.
 * Furthermore, it contains getter and setter functions to perform different operations such as booking a room, or getting the room number.
 * 

@@ -1,8 +1,5 @@
-/*File: Prog4-Group6                                                                  Nader Tomas w10172066
-* Assignment 4                                                                        Thales Teixeira Rodrigues w10173761
-* 
+/*
 * Description:
-* 
 * Private members:
 * rooms: A vector of Room objects representing the rooms available in the hotel.
 * bookings: A vector of Booking objects representing the rooms that are currently booked.

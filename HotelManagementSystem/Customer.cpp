@@ -1,6 +1,4 @@
-/*File: Prog4-Group6                                                                   Nader Tomas w10172066
-* Assignment 4                                                                         Thales Teixeira Rodrigues w10173761
-* 
+/*
 * Description: Implements the methods declared in Customer.h. Initializes customer attributes using the default and parameterized constructors.
 */
 #include "Customer.h"

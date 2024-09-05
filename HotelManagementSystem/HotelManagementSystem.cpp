@@ -1,6 +1,4 @@
-/* File: Prog4-Group6                                                                    Nader Tomas w10172066
-* Assignment 4                                                                           Thales Teixeira Rodrigues w10173761
-* 
+/*
 * Purpose/ Objective: It provides a menu-driven interface for users to interact with the system. 
 * Users can choose from various options like viewing available rooms, booking and unbooking rooms, and generating guest summaries. 
 * Main calls all the classes created in the program. Also, The main function manages the overall control flow of the program, 

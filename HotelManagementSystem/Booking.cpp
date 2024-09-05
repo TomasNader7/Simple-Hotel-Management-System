@@ -1,6 +1,4 @@
-/*File: Prog4-Group6                                                                   Nader Tomas w10172066
-* Assignment 4                                                                         Thales Teixeira Rodrigues w10173761
-* 
+/*
 * Description: Implements the methods declared in Booking.h. Initializes the booked room and customer using a parameterized constructor.
 * Provides access to booked room and customer information.
 */
